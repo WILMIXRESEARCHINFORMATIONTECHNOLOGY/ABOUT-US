@@ -23,5 +23,14 @@ WRIT  is  the  leader  of all  technologies...
 
 WRIT  first   and  most  important   business  is  JDollar.
 
+================================
+
+NAME:  Wilmix  jemin  j
+
+EMPCODE: WRIT-77001
+
+Designation :President  of  WRIT   
+
+========================================
 
 
