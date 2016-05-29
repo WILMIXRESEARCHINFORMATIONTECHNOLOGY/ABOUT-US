@@ -19,7 +19,7 @@ Who  are  the   Members   of  WRIT?
 
 JAVA,  PHP,  SAP,Oracle  ,C/C++, PHYTHON,  Google , IBM  and   Dotnet.
 
-WRIT  is  the  leader  of all  technolgies...
+WRIT  is  the  leader  of all  technologies...
 
 WRIT  first   and  most  important   business  is  JDollar.
 
