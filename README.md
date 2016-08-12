@@ -13,7 +13,7 @@ not   on  software    development.
 
 Who  are  WRIT  players?
 
-ZIT Professionals, IT Professionals,  clients  ,  companies  ,etc...
+ZIT Professionals, SIT Professionals, SIT clients  , SIT companies  ,etc...
 
 Who  are  the   Members   of  WRIT?
 
