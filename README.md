@@ -17,7 +17,7 @@ ZIT Professionals, SIT Professionals, SIT clients  , SIT companies  ,etc...
 
 Who  are  the   Members   of  WRIT?
 
-JAVA,  PHP,  SAP  ,C/C++, PHYTHON,  Google ,LINUX,unix, MAC, IBM  and   Dotnet.
+JAVA,  PHP,  SAP  ,C/C++, PHYTHON,  Oracle ,LINUX,Unix, MAC, IBM  and   Dotnet.
 
 WRIT  is  the  leader  of all  technologies...
 
