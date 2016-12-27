@@ -3,7 +3,7 @@ WilmixRESEARCHINFORMATIONTECHNOLOGY (WRIT)  is   a  seperate  IT  Field  focused
 
 It  is    focused    on   ZIT    technologies   like   CDollar, GDollar, JDollar  CWEB  ,etc  with
 
-Existing   technologies  like  JAVA ,Dotnet, PHP,  C/C++,etc.
+Existing   technologies  like  JAVA, PHP,  C/C++,etc.
 
 
 
@@ -17,7 +17,7 @@ ZIT Professionals, SIT Professionals, SIT clients  , SIT companies  ,etc...
 
 Who  are  the   Members   of  WRIT?
 
-JAVA/J2ee, Dotnet,  PHP,Webdesign-(JQUERY,JSON,HTML,bootstrap.js,node.js,javascript,etc),SAP  ,C/C++, PHYTHON,  Oracle ,LINUX,Unix, MAC, IBM  and   Google.
+JAVA/J2ee,  PHP,Webdesign-(JQUERY,JSON,HTML,bootstrap.js,node.js,javascript,etc),SAP  ,C/C++, PHYTHON,  Oracle ,LINUX,Unix, MAC, IBM  and   Google.
 
 WRIT  is  the  leader  of all  technologies...
 
