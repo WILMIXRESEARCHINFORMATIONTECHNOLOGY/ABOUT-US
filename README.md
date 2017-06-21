@@ -1,9 +1,9 @@
 # ABOUT-US
 ===========
 
-WilmixRESEARCHINFORMATIONTECHNOLOGY (WRIT)  is   a  seperate  IT  Field  focused  on  Advanced   Business   and  Inventing  new  
+WilmixRESEARCHINFORMATIONTECHNOLOGY (WRIT)  is   a  seperate  IT  Field is  started by  wilmix jemin j
 
-technologies  acc  to  client   satisfaction
+ focused  on  Advanced   Business   and  Inventing  new  technologies  acc  to  client   satisfaction.
 
 It  is    focused    on   ZIT    technologies   like   CDollar, GDollar, JDollar , CWEB  ,etc  with
 
@@ -29,7 +29,7 @@ Unix, MAC, IBM  and   Google.
 
 WRIT  is  the  leader  of all  technologies...
 
-WRIT    most  important   business  is  JDollar(JWEB),NJDOLLAR,DOTEB,jSWORD,Adollar
+WRIT    most  important   business  is  JDollar(JWEB),NJDOLLAR,DOTWEB,JSWORD,Adollar
 
 ================================
 
