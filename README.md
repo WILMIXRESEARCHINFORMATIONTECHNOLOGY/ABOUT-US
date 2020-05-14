@@ -41,7 +41,3 @@ Designation :President  of  WRIT
 
 ========================================
 
-
-Note:  Kindly  see   Google site  for  WRIT field  details
-====
-Google site  url : https://sites.google.com/site/writfield
