@@ -2,7 +2,7 @@ title: About-us
 description: WilmixRESEARCHINFORMATIONTECHNOLOGY  is   a  seperate  IT  Field  focused  on  Advanced   Business   and  Inventing  new  technologies  acc  to  client   satisfaction
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
 
 gems:
   - jekyll-mentions
